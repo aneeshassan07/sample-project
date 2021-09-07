@@ -1,1 +1,4 @@
+com\sample\demo\CalcServiceTest.class
 com\sample\app\SampleProjectApplicationTests.class
+com\sample\controller\SampleControllerTest.class
+com\sample\service\SampleServiceTest.class

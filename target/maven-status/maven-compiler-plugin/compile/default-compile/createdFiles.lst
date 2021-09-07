@@ -1,2 +1,7 @@
+com\sample\demo\AddServiceImpl.class
 com\sample\app\SampleProjectApplication.class
 com\sample\controller\SampleController.class
+com\sample\demo\AddService.class
+com\sample\service\SampleClass.class
+com\sample\demo\CalcService.class
+com\sample\service\SampleService.class
